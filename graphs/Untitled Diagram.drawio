@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T06:16:26.755Z" agent="5.0 (Windows)" etag="Ut-_niZBFZgkGqRfMzQr" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T06:21:53.696Z" agent="5.0 (Windows)" etag="uIzqFHLspssvNgf-VifM" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -317,8 +317,37 @@
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1070" value="6" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1073">
           <mxGeometry width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1071" value="新三方代扣协议信息汇总" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1073">
-          <mxGeometry x="75" y="73" width="280" height="30" as="geometry" />
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1071" value="按新协议代扣" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1073">
+          <mxGeometry x="75" y="73" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1076" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1190" y="1680" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1077" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1076">
+          <mxGeometry width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1078" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#666666;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1076">
+          <mxGeometry x="4" y="4" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1080" value="" style="endArrow=oval;html=1;strokeColor=#666666;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=1;rounded=1;endSize=6;startArrow=oval;startFill=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eXOyk2cNZpi0nnTmKh9i-1078" target="1029">
+          <mxGeometry x="1061" y="1266" width="50" height="50" as="geometry">
+            <mxPoint x="1299" y="1440" as="sourcePoint" />
+            <mxPoint x="1225" y="1266" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1130" y="1713" />
+              <mxPoint x="1130" y="1540" />
+              <mxPoint x="1245" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1081" value="" style="endArrow=none;html=1;strokeColor=#666666;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=0;rounded=1;endSize=6;startArrow=none;startFill=0;strokeWidth=2;dashed=1;dashPattern=1 1;" edge="1" parent="1">
+          <mxGeometry x="955" y="1508" width="50" height="50" as="geometry">
+            <mxPoint x="1122" y="1658" as="sourcePoint" />
+            <mxPoint x="1193" y="1532" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1122" y="1532" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
