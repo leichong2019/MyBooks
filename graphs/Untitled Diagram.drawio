@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T05:27:09.183Z" agent="5.0 (Windows)" etag="J1-rgYnuJrcHYcffME4J" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T05:30:19.450Z" agent="5.0 (Windows)" etag="CHVsirTi0KGT38VDFxhu" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -43,11 +43,11 @@
         <mxCell id="994" value="控制4月租金代扣执行" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1275" y="604" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="996" value="&lt;div&gt;协调客户在企业网银App&lt;/div&gt;&lt;div&gt;操作换签&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="996" value="&lt;div&gt;协调客户在企业网银App&lt;/div&gt;&lt;div&gt;操作确认换签&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1275" y="1102" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;DON’T MESS&amp;nbsp;&lt;br&gt;&lt;span&gt;WITH ALIGNMENT&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span&gt;AND SPACING&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="948.9999999999999" y="1324" width="240" height="110" as="geometry" />
+        <mxCell id="997" value="汇总纸质三方代扣协议" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="948.9999999999999" y="1324" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="999" value="&lt;div&gt;3月26日开始代扣&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3月30日18：00 停止&lt;span&gt;招行代扣。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;其他银行代扣正常执行，周期不受影响。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1268" y="663.5" width="300" height="100" as="geometry" />
@@ -58,8 +58,8 @@
         <mxCell id="1003" value="&lt;div&gt;1. 协调客户在其招行企业网银App中操作，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 确认新的电子代扣协议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 不能在App中续签电子协议的客户，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; 发起招行纸质代扣三方协议盖章。&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; 完成盖章的质协议，交财务部汇总。&lt;br&gt; &lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1275" y="1185" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1004" value="Each section or group of&lt;br&gt;content should use the same&lt;br&gt;spacing to the next, and should&lt;br&gt;be strictly aligned." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="949" y="1442" width="265" height="73" as="geometry" />
+        <mxCell id="1004" value="财务部汇总各项目" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="949" y="1389" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1006" value="制图：平台中心、财务部" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1430" y="1700.0000000000005" width="190" height="20" as="geometry" />
