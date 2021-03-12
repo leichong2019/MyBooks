@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T06:21:53.696Z" agent="5.0 (Windows)" etag="uIzqFHLspssvNgf-VifM" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T06:22:27.041Z" agent="5.0 (Windows)" etag="sms5eYJ-O-EOS16_Q_CI" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -312,13 +312,13 @@
           <mxGeometry x="1233" y="1520" width="350" height="350" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1073" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1220" y="1550" width="355" height="120" as="geometry" />
+          <mxGeometry x="1240" y="1540" width="355" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1070" value="6" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1073">
           <mxGeometry width="90" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1071" value="按新协议代扣" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1073">
-          <mxGeometry x="75" y="73" width="160" height="30" as="geometry" />
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1071" value="按新协议执行代扣" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1073">
+          <mxGeometry x="75" y="73" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1076" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1190" y="1680" width="66" height="66" as="geometry" />
