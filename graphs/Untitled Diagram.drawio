@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T08:01:10.741Z" agent="5.0 (Windows)" etag="wL05up162j4g2KKimKxK" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T08:01:53.192Z" agent="5.0 (Windows)" etag="sW4Xjj7XMQ73eAc1MFpq" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="987" value="2" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontStyle=1;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="1194" y="531" width="74" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="989" value="4" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="989" value="4" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontStyle=1;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="1199" y="1029" width="74" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="990" value="5" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="990" value="5" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontStyle=1;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="874" y="1251" width="74" height="120" as="geometry" />
         </mxCell>
         <mxCell id="991" value="&lt;div&gt;1. 招行代扣合同重签事宜说明。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4月租金份代扣周期缩短准备。&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4月租金代扣周期 3月26日 - 3月30日&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 如客户不能再周期内代扣成功，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 协助客户线下转款交租。&lt;br&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
@@ -224,7 +224,7 @@
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1066" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="860" y="770" width="404" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="988" value="3" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" parent="eXOyk2cNZpi0nnTmKh9i-1066" vertex="1">
+        <mxCell id="988" value="3" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontStyle=1;fontColor=#CC0000;" parent="eXOyk2cNZpi0nnTmKh9i-1066" vertex="1">
           <mxGeometry width="74" height="120" as="geometry" />
         </mxCell>
         <mxCell id="995" value="招行更新代扣协议" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="eXOyk2cNZpi0nnTmKh9i-1066" vertex="1">
@@ -236,7 +236,7 @@
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1073" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1210" y="1540" width="355" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1070" value="6" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontColor=#F18808;fontStyle=1" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1073">
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1070" value="6" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontStyle=1;fontColor=#CC0000;" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1073">
           <mxGeometry width="90" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1071" value="按新协议执行代扣" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1073">
