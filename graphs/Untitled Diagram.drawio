@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T08:23:39.820Z" agent="5.0 (Windows)" etag="T_fz2weGg13foZq_o5oY" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T08:26:26.551Z" agent="5.0 (Windows)" etag="IOE8OOMlAyrFWADlstVz" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="990" value="5" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontStyle=1;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="874" y="1251" width="74" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="991" value="&lt;div&gt;1. 招行代扣合同重签事宜说明。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4月租金份代扣周期缩短准备。&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4月租金代扣周期 3月26日 - 3月30日&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 如客户不能再周期内代扣成功，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 协助客户线下转款交租。&lt;br&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
+        <mxCell id="991" value="&lt;div&gt;&lt;b&gt;1.&lt;/b&gt; 招行代扣合同重签事宜说明。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.&lt;/b&gt; 4月租金份代扣周期缩短准备。&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4月租金代扣周期 3月26日 - 3月30日&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 如客户不能再周期内代扣成功，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 协助客户线下转款交租。&lt;br&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
           <mxGeometry x="913.5" y="390" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="992" value="招行代扣合同换签" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=70;align=left;fontColor=#4D4D4D;fontStyle=1" parent="1" vertex="1">
@@ -274,8 +274,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1082" value="&lt;div&gt;1. 4月25日前，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 所有新招行代扣客户，协议换签完成。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4月26日起，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 按照新协议代扣5月租金&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1660" width="310" height="100" as="geometry" />
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1082" value="&lt;div&gt;1. 4月25日前，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 所有新招行代扣客户，协议换签完成。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4月26日起，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 按照新协议代扣5月租金&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 反馈未成功重签清单&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1660" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1086" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1183" y="683" width="68" height="66" as="geometry" />
