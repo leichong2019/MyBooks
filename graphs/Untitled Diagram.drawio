@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T08:56:05.634Z" agent="5.0 (Windows)" etag="UJLvga6EhESSMEvQwr2V" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T08:57:32.500Z" agent="5.0 (Windows)" etag="fxeM2omzfPzK1MVOV1vV" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -274,8 +274,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1082" value="&lt;div&gt;1. 4月25日前，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 所有新招行代扣客户，协议换签完成。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4月26日起，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 按照新协议代扣5月租金&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 反馈未成功重签清单&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="1660" width="310" height="130" as="geometry" />
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1082" value="&lt;div&gt;1. 4月25日前，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 所有新招行代扣客户，协议换签完成。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4月26日起，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 按照新协议代扣5月租金&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 反馈未成功重签清单，督促完成重签&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1273" y="1660" width="310" height="130" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1086" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1183" y="683" width="68" height="66" as="geometry" />
