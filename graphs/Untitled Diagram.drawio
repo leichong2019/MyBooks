@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T02:18:20.847Z" agent="5.0 (Windows)" etag="0tLnA5tf_QCpcBG39WJs" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T02:29:08.293Z" agent="5.0 (Windows)" etag="YBtzsl7mClhrzkMf4b7h" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -331,6 +331,15 @@
             <mxPoint x="1195" y="1202" as="sourcePoint" />
             <mxPoint x="1201" y="1206" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1059" value="Scribble down your content." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="949" y="430" width="236" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1062" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1148.5" y="155" width="491" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1063" value="&lt;div style=&quot;font-size: 21px;&quot;&gt;应人行、招行总行要求，&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;公司在签所有两方代扣协议需重签，&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;改为三方代扣协议。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=21;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1260" y="179.5" width="350" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
