@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T03:37:56.117Z" agent="5.0 (Windows)" etag="t4HWRhoUM3wvLCa1sjGL" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T03:38:33.724Z" agent="5.0 (Windows)" etag="0fGlZwlHfCLX1y9tUP4D" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -55,8 +55,8 @@
         <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;DON’T MESS&amp;nbsp;&lt;br&gt;&lt;span&gt;WITH ALIGNMENT&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span&gt;AND SPACING&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="948.9999999999999" y="1324" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="999" value="&lt;div&gt;3月26日开始代扣&lt;/div&gt;&lt;div&gt;3月30日18：00 停止&lt;span&gt;招行代扣。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 其他银行代扣按周期正常执行。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1268" y="663.5" width="250" height="60" as="geometry" />
+        <mxCell id="999" value="&lt;div&gt;3月26日开始代扣&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3月30日18：00 停止&lt;span&gt;招行代扣。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;其他银行代扣正常执行，周期不受影响。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1268" y="663.5" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1001" value="&lt;div style=&quot;line-height: 120%&quot;&gt;&lt;font style=&quot;line-height: 120%&quot;&gt;&lt;div&gt;It groups content visually.&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
           <mxGeometry x="949" y="967" width="221" height="19" as="geometry" />
