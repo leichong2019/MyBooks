@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T03:44:23.539Z" agent="5.0 (Windows)" etag="YOcWDOGDuJKxsWzVpBcG" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T05:27:09.183Z" agent="5.0 (Windows)" etag="J1-rgYnuJrcHYcffME4J" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -43,8 +43,8 @@
         <mxCell id="994" value="控制4月租金代扣执行" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1275" y="604" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="996" value="&lt;div style=&quot;line-height: 150%&quot;&gt;USE A CONSISTENT&amp;nbsp;&lt;br&gt;&lt;span&gt;STYLE&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1275" y="1102" width="270" height="70" as="geometry" />
+        <mxCell id="996" value="&lt;div&gt;协调客户在企业网银App&lt;/div&gt;&lt;div&gt;操作换签&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1275" y="1102" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="997" value="&lt;div style=&quot;line-height: 150%&quot;&gt;DON’T MESS&amp;nbsp;&lt;br&gt;&lt;span&gt;WITH ALIGNMENT&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span&gt;AND SPACING&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="948.9999999999999" y="1324" width="240" height="110" as="geometry" />
@@ -55,8 +55,8 @@
         <mxCell id="1002" value="&lt;div&gt;1. 招行停止旧两方代扣协议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 根据SOHO提供的清单，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 给每个客户增加新三方电子代扣协议，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 新协议将出现在客户企业网银中，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 待客户确认生效。&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="935" y="902" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1003" value="Each element should have&lt;br&gt;the same styling and the same&lt;br&gt;placement.&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1275" y="1185" width="260" height="60" as="geometry" />
+        <mxCell id="1003" value="&lt;div&gt;1. 协调客户在其招行企业网银App中操作，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 确认新的电子代扣协议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 不能在App中续签电子协议的客户，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; 发起招行纸质代扣三方协议盖章。&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; 完成盖章的质协议，交财务部汇总。&lt;br&gt; &lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="1185" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1004" value="Each section or group of&lt;br&gt;content should use the same&lt;br&gt;spacing to the next, and should&lt;br&gt;be strictly aligned." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="949" y="1442" width="265" height="73" as="geometry" />
