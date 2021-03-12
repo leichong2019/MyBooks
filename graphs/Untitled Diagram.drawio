@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T03:43:01.663Z" agent="5.0 (Windows)" etag="7W7G_MAlgMmC_25Mg01b" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T03:44:23.539Z" agent="5.0 (Windows)" etag="YOcWDOGDuJKxsWzVpBcG" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="999" value="&lt;div&gt;3月26日开始代扣&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3月30日18：00 停止&lt;span&gt;招行代扣。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;其他银行代扣正常执行，周期不受影响。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1268" y="663.5" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1002" value="&lt;div&gt;1. 招行停止旧两方代扣协议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 根据SOHO提供的清单，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 给每个客户增加一条新三方代扣协议，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 新协议将出现在客户企业网银中，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 待客户确认生效。&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="1002" value="&lt;div&gt;1. 招行停止旧两方代扣协议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 根据SOHO提供的清单，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 给每个客户增加新三方电子代扣协议，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 新协议将出现在客户企业网银中，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 待客户确认生效。&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="935" y="902" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1003" value="Each element should have&lt;br&gt;the same styling and the same&lt;br&gt;placement.&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
