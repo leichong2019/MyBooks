@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T06:38:26.825Z" agent="5.0 (Windows)" etag="d1TmqB_oBo4hVCCO4mAg" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T07:58:11.691Z" agent="5.0 (Windows)" etag="i1xfMQzQFcPMz6vV-mBN" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="979" value="" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=#333333;fontFamily=Verdana;fontSize=24;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="979" value="" style="whiteSpace=wrap;html=1;strokeColor=#36393d;fontFamily=Verdana;fontSize=24;align=center;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="854" y="31" width="776" height="1909" as="geometry" />
         </mxCell>
         <mxCell id="980" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#282828;" parent="1" vertex="1">
@@ -34,10 +34,10 @@
         <mxCell id="991" value="&lt;div&gt;1. 招行代扣合同重签事宜说明。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4月租金份代扣周期缩短准备。&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4月租金代扣周期 3月26日 - 3月30日&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 如客户不能再周期内代扣成功，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 协助客户线下转款交租。&lt;br&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
           <mxGeometry x="913.5" y="390" width="310" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="992" value="招行代扣合同换签" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=70;fontColor=#dddddd;align=left;" parent="1" vertex="1">
+        <mxCell id="992" value="招行代扣合同换签" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=70;align=left;fontColor=#4D4D4D;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="888" y="79" width="700" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="993" value="简明操作步骤" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=35;fontFamily=Verdana;fontColor=#888888;" parent="1" vertex="1">
+        <mxCell id="993" value="简明步骤说明" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=35;fontFamily=Verdana;fontColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="892" y="163" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="994" value="控制4月租金代扣执行" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
@@ -45,9 +45,6 @@
         </mxCell>
         <mxCell id="996" value="&lt;div&gt;协调客户在企业网银App&lt;/div&gt;&lt;div&gt;操作确认换签&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1275" y="1102" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1069" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;" edge="1" parent="1" source="997" target="990">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="997" value="新三方代扣协议信息汇总" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="948.9999999999999" y="1324" width="280" height="30" as="geometry" />
@@ -186,7 +183,7 @@
           <mxGeometry x="-2" y="18" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1025" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1183" y="1177" width="66" height="66" as="geometry" />
+          <mxGeometry x="1183" y="1177" width="68" height="66" as="geometry" />
         </mxCell>
         <mxCell id="1026" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=#666666;strokeWidth=2;" parent="1025" vertex="1">
           <mxGeometry width="66" height="66" as="geometry" />
@@ -194,8 +191,11 @@
         <mxCell id="1027" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#666666;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;" parent="1025" vertex="1">
           <mxGeometry x="4" y="4" width="58" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1091" value="客服" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1025">
+          <mxGeometry x="-2" y="18" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="1028" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1212" y="1396" width="66" height="66" as="geometry" />
+          <mxGeometry x="1212" y="1396" width="68" height="66" as="geometry" />
         </mxCell>
         <mxCell id="1029" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=#666666;strokeWidth=2;" parent="1028" vertex="1">
           <mxGeometry width="66" height="66" as="geometry" />
@@ -203,71 +203,14 @@
         <mxCell id="1030" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#666666;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;" parent="1028" vertex="1">
           <mxGeometry x="4" y="4" width="58" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="1035" value="" style="whiteSpace=wrap;html=1;strokeColor=#282828;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1229" y="1410" width="31" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="1036" value="" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
-          <mxGeometry x="1235" y="1415" width="8" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="1037" value="" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
-          <mxGeometry x="1246" y="1415" width="8" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="1038" value="" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
-          <mxGeometry x="1235" y="1426" width="8" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="1039" value="" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
-          <mxGeometry x="1235" y="1437" width="8" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="1040" value="" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
-          <mxGeometry x="1246" y="1426" width="8" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="1050" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
-          <mxGeometry x="1206" y="1199" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="1051" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
-          <mxGeometry x="1228" y="1203" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="1052" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
-          <mxGeometry x="1221" y="1216" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="1053" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=1;fillColor=#282828;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;" parent="1" vertex="1">
-          <mxGeometry x="1199" y="1212" width="5" height="5" as="geometry" />
-        </mxCell>
-        <mxCell id="1054" value="" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;strokeColor=#282828;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="1201" y="1201" width="15" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="1055" value="" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;strokeColor=#282828;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="1216" y="1201" width="15" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="1056" value="" style="endArrow=none;html=1;strokeColor=#282828;strokeWidth=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1223" y="1193" as="sourcePoint" />
-            <mxPoint x="1223.2399355124335" y="1201.1578074227382" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1057" value="" style="endArrow=none;html=1;strokeColor=#282828;strokeWidth=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1209" y="1219" as="sourcePoint" />
-            <mxPoint x="1209" y="1227" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1058" value="" style="endArrow=none;html=1;strokeColor=#282828;strokeWidth=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1231" y="1214" as="sourcePoint" />
-            <mxPoint x="1237" y="1218" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1059" value="" style="endArrow=none;html=1;strokeColor=#282828;strokeWidth=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1195" y="1202" as="sourcePoint" />
-            <mxPoint x="1201" y="1206" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1092" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;财务&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;平台&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1028">
+          <mxGeometry x="-1" y="18" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1062" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1148.5" y="155" width="491" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1063" value="&lt;div style=&quot;font-size: 21px&quot;&gt;根据人民银行、招行总行要求，&lt;/div&gt;&lt;div style=&quot;font-size: 21px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;公司在签所有两方代扣协议需重签，&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;改为三方代扣协议。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=21;fontFamily=Verdana;fontColor=#DDDDDD;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1260" y="179.5" width="350" height="80" as="geometry" />
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1063" value="&lt;div style=&quot;font-size: 21px&quot;&gt;根据人民银行、招行总行要求，&lt;/div&gt;&lt;div style=&quot;font-size: 21px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;招行在签的所有两方代扣协议需重签，&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;改为三方代扣协议。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=21;fontFamily=Verdana;fontStyle=1;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="179.5" width="370" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1065" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="873" y="260" width="306" height="120" as="geometry" />
@@ -300,13 +243,16 @@
           <mxGeometry x="75" y="73" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1076" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1190" y="1680" width="66" height="66" as="geometry" />
+          <mxGeometry x="1190" y="1680" width="68" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1077" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1076">
           <mxGeometry width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1078" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#666666;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1076">
           <mxGeometry x="4" y="4" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1093" value="平台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="eXOyk2cNZpi0nnTmKh9i-1076">
+          <mxGeometry x="-2" y="18" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1080" value="" style="endArrow=oval;html=1;strokeColor=#666666;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;endFill=1;rounded=1;endSize=6;startArrow=oval;startFill=1;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" edge="1" parent="1">
           <mxGeometry x="1061" y="1266" width="50" height="50" as="geometry">
