@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T01:26:09.558Z" agent="5.0 (Windows)" etag="XJA31STxZwnEjsTz_SSn" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-15T01:29:39.765Z" agent="5.0 (Windows)" etag="h5EDy9wjSBZI9TTlt2sB" version="14.4.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="154" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
         <mxCell id="1003" value="&lt;div&gt;1. 协调客户在其招行企业网银App中操作，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 确认新的电子代扣协议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 不能在App中续签电子协议的客户，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; 发起招行纸质代扣三方协议盖章。&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; 完成盖章的质协议，交财务部汇总。&lt;br&gt; &lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="1275" y="1185" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1004" value="&lt;div&gt;1. 财务部汇总收集各项目纸质三方协议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 平台汇总电子、纸质换签状况，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 督促联系每家客户换签不遗漏。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="923" y="1383" width="310" height="120" as="geometry" />
+        <mxCell id="1004" value="&lt;div&gt;1. 财务部汇总收集各项目纸质三方协议。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 平台汇总电子、纸质换签状况，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 督促联系每家客户换签不遗漏。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;3. 4月25日前，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 所有新招行代扣客户，协议换签完成。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="923" y="1383" width="310" height="170" as="geometry" />
         </mxCell>
         <mxCell id="1006" value="平台管理中心" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1473" y="1900.0000000000005" width="110" height="20" as="geometry" />
@@ -283,8 +283,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1082" value="&lt;div&gt;1. 4月25日前，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 所有新招行代扣客户，协议换签完成。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 4月26日起，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 按照新协议代扣5月租金&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 反馈未成功重签清单，督促完成重签&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1273" y="1660" width="310" height="130" as="geometry" />
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1082" value="1. 4月26日起，&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 按照新协议代扣5月租金&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 反馈未成功重签清单，督促完成重签。&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#888888;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1273" y="1660" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1086" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1183" y="683" width="68" height="66" as="geometry" />
