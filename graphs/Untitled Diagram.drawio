@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-15T01:29:39.765Z" agent="5.0 (Windows)" etag="h5EDy9wjSBZI9TTlt2sB" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T06:49:59.442Z" agent="5.0 (Windows)" etag="D9CJowKyQC9yQKcSOZPP" version="14.4.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="154" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="45" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
         <mxCell id="990" value="5" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=100;fontFamily=Verdana;fontStyle=1;fontColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="874" y="1251" width="74" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="991" value="&lt;div&gt;&lt;b&gt;1.&lt;/b&gt; 招行代扣合同重签事宜说明。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.&lt;/b&gt; 4月租金份代扣周期缩短准备。&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4月租金代扣周期 3月26日 - 3月30日&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 如客户不能再周期内代扣成功，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 协助客户线下转款交租。&lt;br&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
+        <mxCell id="991" value="&lt;div&gt;&lt;b&gt;1.&lt;/b&gt; 向客户说明招行代扣合同重签事宜。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.&lt;/b&gt; 4月租金份代扣周期缩短准备。&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 4月租金代扣周期 3月26日 - 3月30日&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 如客户不能再周期内代扣成功，&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 协助客户线下转款交租。&lt;br&gt;&lt;/div&gt;" style="text;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontFamily=Verdana;fontColor=#888888;html=1;" parent="1" vertex="1">
           <mxGeometry x="913.5" y="390" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="992" value="招行代扣合同换签" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Verdana;fontSize=70;align=left;fontColor=#4D4D4D;fontStyle=1" parent="1" vertex="1">
@@ -158,14 +158,17 @@
         <mxCell id="1016" value="" style="group;fontColor=#990000;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1212" y="358" width="68" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="1017" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeWidth=2;strokeColor=#FF8000;" parent="1016" vertex="1">
-          <mxGeometry width="66" height="66" as="geometry" />
+        <mxCell id="eWoWCOu8v8C9tdekXvjS-1032" value="" style="group" vertex="1" connectable="0" parent="1016">
+          <mxGeometry x="-2" width="70" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="1018" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#FF8000;" parent="1016" vertex="1">
-          <mxGeometry x="4" y="4" width="58" height="58" as="geometry" />
+        <mxCell id="1017" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeWidth=2;strokeColor=#FF8000;" parent="eWoWCOu8v8C9tdekXvjS-1032" vertex="1">
+          <mxGeometry x="2" width="66" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1084" value="客服" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=0;fontColor=#E6E6E6;" parent="1016" vertex="1">
-          <mxGeometry x="-2" y="18" width="70" height="30" as="geometry" />
+        <mxCell id="1018" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#FF8000;" parent="eWoWCOu8v8C9tdekXvjS-1032" vertex="1">
+          <mxGeometry x="6" y="4" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="eXOyk2cNZpi0nnTmKh9i-1084" value="客服" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=0;fontColor=#E6E6E6;" parent="eWoWCOu8v8C9tdekXvjS-1032" vertex="1">
+          <mxGeometry y="18" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1019" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1183" y="683" width="68" height="66" as="geometry" />
@@ -310,23 +313,35 @@
         <mxCell id="eXOyk2cNZpi0nnTmKh9i-1100" value="财务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#E6E6E6;" parent="eXOyk2cNZpi0nnTmKh9i-1097" vertex="1">
           <mxGeometry x="-2" y="18" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gbcM_U1jnJLe-b81ByPC-1027" value="" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[1,0.02],[1,0.96],[0,1],[0,0]];polyline=0;rounded=0;shadow=0;fontSize=18;fontColor=#ffffff;glass=0;sketch=0;strokeColor=none;fillColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="gbcM_U1jnJLe-b81ByPC-1027" value="" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[1,0.02],[1,0.96],[0,1],[0,0]];polyline=0;rounded=0;shadow=0;fontSize=18;fontColor=#ffffff;glass=0;sketch=0;strokeColor=none;fillColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="1591" y="942" width="39" height="468" as="geometry" />
         </mxCell>
-        <mxCell id="gbcM_U1jnJLe-b81ByPC-1028" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gbcM_U1jnJLe-b81ByPC-1028" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1350" y="1430" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gbcM_U1jnJLe-b81ByPC-1029" value="" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[1,0.02],[1,1],[0,1],[0,0.05]];polyline=0;rounded=0;shadow=0;fontSize=18;fontColor=#ffffff;glass=0;sketch=0;strokeColor=none;fillColor=#9E9E9E;" vertex="1" parent="1">
+        <mxCell id="gbcM_U1jnJLe-b81ByPC-1029" value="" style="verticalLabelPosition=bottom;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[1,0.02],[1,1],[0,1],[0,0.05]];polyline=0;rounded=0;shadow=0;fontSize=18;fontColor=#ffffff;glass=0;sketch=0;strokeColor=none;fillColor=#9E9E9E;" parent="1" vertex="1">
           <mxGeometry x="1591" y="1380" width="39" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="gbcM_U1jnJLe-b81ByPC-1030" value="&amp;nbsp;~&amp;nbsp;&amp;nbsp; 2021 年 3 月 30 日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=0;rotation=-180;fontStyle=1;fontFamily=Verdana;fontColor=#E6E6E6;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="gbcM_U1jnJLe-b81ByPC-1030" value="&amp;nbsp;~&amp;nbsp;&amp;nbsp; 2021 年 3 月 30 日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=0;rotation=-180;fontStyle=1;fontFamily=Verdana;fontColor=#E6E6E6;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="1591" y="578" width="40" height="364" as="geometry" />
         </mxCell>
-        <mxCell id="gbcM_U1jnJLe-b81ByPC-1031" value="&amp;nbsp;4 月 2 日&amp;nbsp;&amp;nbsp;&amp;nbsp; ~&amp;nbsp;&amp;nbsp;&amp;nbsp; 4 月 25 日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=0;rotation=-180;fontStyle=1;fontFamily=Verdana;fontColor=#E6E6E6;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="gbcM_U1jnJLe-b81ByPC-1031" value="&amp;nbsp;4 月 2 日&amp;nbsp;&amp;nbsp;&amp;nbsp; ~&amp;nbsp;&amp;nbsp;&amp;nbsp; 4 月 25 日" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=0;rotation=-180;fontStyle=1;fontFamily=Verdana;fontColor=#E6E6E6;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="1591" y="1007" width="40" height="364" as="geometry" />
         </mxCell>
-        <mxCell id="gbcM_U1jnJLe-b81ByPC-1032" value="&amp;nbsp;4 月 26 日&amp;nbsp;&amp;nbsp;&amp;nbsp; ~&amp;nbsp;&amp;nbsp;&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=0;rotation=-180;fontStyle=1;fontFamily=Verdana;fontColor=#E6E6E6;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="gbcM_U1jnJLe-b81ByPC-1032" value="&amp;nbsp;4 月 26 日&amp;nbsp;&amp;nbsp;&amp;nbsp; ~&amp;nbsp;&amp;nbsp;&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=0;rotation=-180;fontStyle=1;fontFamily=Verdana;fontColor=#E6E6E6;fontSize=23;" parent="1" vertex="1">
           <mxGeometry x="1591" y="1390" width="40" height="364" as="geometry" />
+        </mxCell>
+        <mxCell id="eWoWCOu8v8C9tdekXvjS-1027" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1210" y="420" width="68" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="eWoWCOu8v8C9tdekXvjS-1028" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeWidth=2;strokeColor=#000099;" vertex="1" parent="eWoWCOu8v8C9tdekXvjS-1027">
+          <mxGeometry width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="eWoWCOu8v8C9tdekXvjS-1029" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=16;fontColor=#DDDDDD;strokeColor=none;fillColor=#000099;" vertex="1" parent="eWoWCOu8v8C9tdekXvjS-1027">
+          <mxGeometry x="4" y="4" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="eWoWCOu8v8C9tdekXvjS-1030" value="财务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#E6E6E6;" vertex="1" parent="eWoWCOu8v8C9tdekXvjS-1027">
+          <mxGeometry x="-2" y="18" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
