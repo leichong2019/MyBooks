@@ -140,7 +140,7 @@ markdown中输入如下
 
 ## 复选框
 - [x] 这是已经完成的任务
-- [] 这是没经完成的任务
+- [ ] 这是没经完成的任务
 
 ## 参考链接
 mdnice 网站中支持参考链接的实现，如下：  
@@ -156,7 +156,7 @@ hē hē hē hē } 呀！
 :+1: :sparkles: :camel: :tada:  
 :rocket: :metal: :heart_eyes: :sob:  
 可以通过下面这个网站来查看支持哪些emoji表情：  
-emoji-cheat-sheet
+[emoji-cheat-sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 ## 流程图
 markdown 支持绘制流程图，将语言标记为”flow“，举个例子如下：  
